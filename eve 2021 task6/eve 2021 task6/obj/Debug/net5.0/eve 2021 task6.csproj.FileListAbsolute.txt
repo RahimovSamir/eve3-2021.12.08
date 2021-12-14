@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\bin\Debug\net5.0\eve 2021 task6.exe
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\bin\Debug\net5.0\eve 2021 task6.deps.json
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\bin\Debug\net5.0\eve 2021 task6.runtimeconfig.json
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\bin\Debug\net5.0\eve 2021 task6.runtimeconfig.dev.json
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\bin\Debug\net5.0\eve 2021 task6.dll
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\bin\Debug\net5.0\ref\eve 2021 task6.dll
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\bin\Debug\net5.0\eve 2021 task6.pdb
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.AssemblyInfo.cs
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.dll
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\ref\eve 2021 task6.dll
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.pdb
+C:\Users\HP\source\repos\eve 2021 task6\eve 2021 task6\obj\Debug\net5.0\eve 2021 task6.genruntimeconfig.cache
